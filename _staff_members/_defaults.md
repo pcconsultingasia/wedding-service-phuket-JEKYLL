@@ -2,5 +2,6 @@
 name:
 position:
 image_path
-url:
+twitter:
+website:
 ---
