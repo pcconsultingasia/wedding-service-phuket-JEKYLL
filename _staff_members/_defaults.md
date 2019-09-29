@@ -1,6 +1,6 @@
 ---
 name:
 position:
-image_path:
-twitter:
+image_path
+url:
 ---
