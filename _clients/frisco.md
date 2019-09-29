@@ -1,80 +1,18 @@
 ---
-name: Frisco Template
-subtitle: App marketing template for Jekyll
-external_url: https://github.com/CloudCannon/frisco-jekyll-template
-image_path: /images/clients/frisco.jpg
+name: Wedding Celebrant
+subtitle: Wedding Celebrant based in Phuket
+external_url: 'https://weddingcelebrantasia.com'
+image_path: /uploads/logoweddingcelebrant.jpg
 ---
 
-App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
-Increase the web presence of a App with this configurable theme.
+Phuket Wedding Celebrant - Paul Cunliffe
 
-Frisco was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
+## PHUKET WEDDING CELEBRANT
 
-Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
+As an experienced Wedding & Marriage Celebrant, I have been based out of Thailand for the last 10 years and I have been privileged to work with many couples from all over the World. I served in the Royal Air Force for 23 years and trained as an instructor and event organizer among other things before retiring to Phuket, Thailand. More information on my background can be found at my website PC Consulting Asia.
 
-## Features
+As your Wedding Celebrant, I will guide you through the whole process of creating your own personalized Wedding Ceremony, from its format to the creation together of your personalized vows. After sending you both example vows, we will then together create the perfect ceremony, tailored to you both.
 
-* Contact form
-* Pre-built pages
-* Pre-styled components
-* Blog with pagination
-* Post category pages
-* Disqus comments for posts
-* Staff and author system
-* Configurable footer
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+I will always meet you before your Wedding Day so we get to know each other and as a final check to ensure the Ceremony is exactly as planned.
 
-## Setup
-
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics and Disqus keys to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
-
-## Develop
-
-Frisco was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
-
-Install the dependencies with [Bundler](http://bundler.io/):
-
-~~~bash
-$ bundle install
-~~~
-
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
-
-~~~bash
-$ bundle exec jekyll serve
-~~~
-
-## Editing
-
-Frisco is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
-
-### Posts
-
-* Add, update or remove a post in the *Posts* collection.
-* The **Staff Author** field links to members in the **Staff Members** collection.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
-
-### Contact Form
-
-* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
-
-### Staff
-
-* Reused around the site to save multiple editing locations.
-
-### Footer
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Navigation* section.
-
-### Footer
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
+A natural speaker in front of any audience, I can ensure that your have a day full of wonderful memories.
