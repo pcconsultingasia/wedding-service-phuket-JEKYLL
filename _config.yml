@@ -72,6 +72,7 @@ defaults:
       type: "staff_members"
     values:
       _options:
+        links:
         image_path:
           width: 600
           height: 600
