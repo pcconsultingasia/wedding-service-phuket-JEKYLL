@@ -15,11 +15,11 @@ image_path: /uploads/pccapic3.jpg
 
 &nbsp;
 
-{% include youtubePlayer.html&nbsp; id=LjG1E9T-87M %}
+{% include youtubePlayer.html id=LjG1E9T-87M %}
 
 &nbsp;
 
-{% include youtubePlayer.html&nbsp; id=Pq_NWc_Qeww %}
+{% include youtubePlayer.html id=Pq_NWc_Qeww %}
 
 &nbsp;
 
