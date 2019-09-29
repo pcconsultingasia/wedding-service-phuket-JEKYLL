@@ -13,4 +13,4 @@ image_path:
 
 **We hope that the wedding videos from Unique Phuket Wedding Planners inspire you with ideas for your Wedding day in Phuket or other overseas Wedding venues.**
 
-{% include youtubePlayer.html id=page.LjG1E9T-87M %}
+{% include youtubePlayer.html id=LjG1E9T-87M %}
