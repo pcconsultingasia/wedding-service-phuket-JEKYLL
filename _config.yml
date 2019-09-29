@@ -9,7 +9,7 @@ disqus_shortname:
 description: Wedding Service Phuket is Unique as we provide all the Wedding Services you will ever need for your Wedding or event in Phuket.
 
 # Author details for the jekyll-seo-tag gem
-author: Paul Cunliffe
+author:
   name: PC Consulting Asia
   email: services@uniquephuket.com
   twitter: wedding_phuket
