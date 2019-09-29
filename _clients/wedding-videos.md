@@ -15,7 +15,7 @@ image_path: /uploads/pccapic3.jpg
 
 &nbsp;
 
-{% include youtubePlayer.html id=LjG1E9T-87M %}
+&lt;iframe width="1280" height="720" src="https://www.youtube.com/embed/s2n3c6g6RHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 &nbsp;
 
