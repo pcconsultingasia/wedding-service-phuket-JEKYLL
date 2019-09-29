@@ -1,6 +1,7 @@
 ---
-name: James Lopez
-position: Designer
-image_path: "https://unsplash.it/600/503?image=1062&a=.png"
-twitter: CloudCannonApp
+name: Paul
+position: Wedding Planner and Wedding Celebrant
+image_path: /uploads/phuket-wedding-celebrant---paul-cunliffe.jpg
+twitter: wedding_phuket
 ---
+
