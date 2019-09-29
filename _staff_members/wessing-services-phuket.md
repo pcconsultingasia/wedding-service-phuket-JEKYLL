@@ -1,8 +1,8 @@
 ---
-name: Wessing Services Phuket
+name: Wedding Services Phuket
 position: About our Company
 image_path: /siteicon.png
-twitter:
+twitter: wedding_phuket
 ---
 
 Wedding Service Phuket is Unique as we provide all the Wedding Services you will ever need for your Wedding or event in Phuket. Paul & Supparin own and run Wedding Service Phuket with many years of experience and a thorough knowledge of Phuket Events, Phuket event management and all the best wedding venues and vendors available today.
