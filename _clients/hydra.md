@@ -1,82 +1,16 @@
 ---
-name: Hydra Template
-subtitle: Product marketing template for Jekyll
-external_url: https://github.com/CloudCannon/hydra-jekyll-template
-image_path: /images/clients/hydra.png
+name: Jaran Images
+subtitle: Profession Wedding & Event Photography
+external_url: 'https://jaranimages.com'
+image_path: /uploads/jaran-imageslogo.jpg
 ---
 
-Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
-Increase the web presence of your brand with this configurable theme.
+Jaran Photography @ Jaran Images
 
-Hydra was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
+## JARAN PHOTO
 
-Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
+I started my own professional wedding photography career in 2009 as Jaran Photo ([www.jaranphoto.com](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.jaranphoto.com%2F%3Ffbclid%3DIwAR3oRIWkLdZacdLSPJ6_gfK3IKE9zHcbCcC1SOt2hsGD-OjkGm42gmLxw38&amp;h=AT0cPFJsbaaFHCzwx2KHf-TmoxdJoxiVv2Z2daY8gGM_ZlNlyUYvygnsn8rHrMQBJnOx9y5-JFTfG4TOzztP_mTC41nhHLQZtdXmEWoHLYzi3QHFmmuNW-E6mov1LfMmwmiuphXWwro7xBQ6vJTYmpf1){: target="_blank"}).
 
-## Features
+**My photo shooting style is soft and romantic. I love capturing candid moments, small details and couples portraits.**
 
-* Contact form
-* Pre-built pages
-* Pre-styled components
-* Blog with pagination
-* Post category pages
-* Disqus comments for posts
-* Staff and author system
-* Configurable footer
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
-
-## Setup
-
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics and Disqus keys to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
-
-## Develop
-
-Hydra was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
-
-Install the dependencies with [Bundler](http://bundler.io/):
-
-~~~bash
-$ bundle install
-~~~
-
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
-
-~~~bash
-$ bundle exec jekyll serve
-~~~
-
-## Editing
-
-Hydra is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
-
-### Posts
-
-* Add, update or remove a post in the *Posts* collection.
-* The **Staff Author** field links to members in the **Staff** collection.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
-
-### Contact Form
-
-* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
-* Sends email to the address listed in company details.
-
-### Staff
-
-* Reused around the site to save multiple editing locations.
-* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
-
-### Footer
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Navigation* section.
-
-### Footer
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
+My passion is to create stunning, natural imagery using an artistic approach. I aim to create wedding day events that will remain captured in time. My hope is that my photography evokes the emotions from each couple’s special day.
