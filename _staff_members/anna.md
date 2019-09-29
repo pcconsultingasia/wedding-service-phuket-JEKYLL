@@ -5,3 +5,4 @@ image_path: /uploads/supparain-leunkaew.jpg
 twitter:
 ---
 
+We will translate your vision of the perfect wedding into a spectacular event
