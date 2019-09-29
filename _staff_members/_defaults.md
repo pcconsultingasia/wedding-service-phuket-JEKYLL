@@ -1,6 +1,7 @@
 ---
 name:
 position:
-image_path
+external_url:
+image_path:
 Twitter:
 ---
