@@ -2,7 +2,7 @@
 name: Wedding Celebrant
 subtitle: Wedding Celebrant based in Phuket
 external_url: 'https://weddingcelebrantasia.com'
-image_path: /uploads/logoweddingcelebrant-resized.jpg
+image_path: /uploads/logoweddingcelebrant.resized.jpg
 ---
 
 Phuket Wedding Celebrant - Paul Cunliffe
