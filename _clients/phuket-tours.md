@@ -2,7 +2,7 @@
 name: Angel Phuket Tours
 subtitle: Phuket Tours & Conceige Service
 external_url: 'https://angelphukettours.com'
-image_path: /uploads/angel-phuket-tours-1-resized.jpg
+image_path: /uploads/angel phuket tours (1).resized.jpeg
 ---
 
 Angel Phuket Tours - Phuket Tours, Weddings & More by Toom
