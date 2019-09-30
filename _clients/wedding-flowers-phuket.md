@@ -2,7 +2,7 @@
 name: Wedding Flowers Phuket
 subtitle: Phuket Wedding Flowers & Decorations
 external_url: 'https://weddingflowersphuket.com'
-image_path: /uploads/wedding-flowers-phuket-400dpilogo.jpg
+image_path: /uploads/Wedding Flowers Phuket 400dpiLogo.jpg
 ---
 
 Flowers are sourced locally and of the best quality. All our flowers are hand made to order matching your exact requirements.
