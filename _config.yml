@@ -47,6 +47,7 @@ plugins:
   - "jekyll-paginate"
   - "jekyll-archives"
   - "jekyll-image-size"
+  - "jekyll-responsive-image"
 
 
 exclude:
