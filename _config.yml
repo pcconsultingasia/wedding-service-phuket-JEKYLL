@@ -1,22 +1,22 @@
 title: Phuket Wedding & Event Planning Services
 url: "https://weddingservicephuket.com"
 baseurl: 
-google_analytics_key: UA-87739794-16 
-google_maps_javascript_api_key: AIzaSyCGeJhtwVTR5ZBT6uPolvqcWyHQiq0OIjw
-disqus_shortname: wedding-services-phuket
+google_analytics_key: "UA-87739794-16" 
+google_maps_javascript_api_key: "AIzaSyCGeJhtwVTR5ZBT6uPolvqcWyHQiq0OIjw"
+disqus_shortname: "wedding-services-phuket"
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: Wedding Service Phuket is Unique as we provide all the Wedding Services you will ever need for your Wedding or event in Phuket.
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name: PC Consulting Asia
-  email: services@uniquephuket.com
-  twitter: wedding_phuket
+  name: "PC Consulting Asia"
+  email: "services@uniquephuket.com"
+  twitter: "wedding_phuket"
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Wedding Service Phuket
+  name: "Wedding Service Phuket"
   links:
     - https://github.com/CloudCannon/urban-jekyll-template
     - https://www.weddingplannersphuket.com/
