@@ -20,7 +20,7 @@ image_path: >-
 
 &nbsp;
 
-{% include youtubePlayer.html id=LjG1E9T-87M&amp;t %}
+{% include youtubePlayer.html id=LjG1E9T-87M %}
 
 &nbsp;
 
