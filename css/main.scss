@@ -1,126 +1,96 @@
-.main{
-  margin-top: 15%;
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
-.st0{fill:#fff}
-.st2{fill:#5d89af}
-.st3{fill:#709abf}
-.st4,.st6{
-  fill:#fff;
-  stroke:#b3dcdf;
-  stroke-miterlimit:10
-}
-.st6{
-  stroke:#5d89af;
-  stroke-width:2
-}
-.st7,.st8,.st9{
-  stroke:#709abf;
-  stroke-miterlimit:10
+body {
+  padding: 0;
+  margin: 0;
 }
 
-.st7{
-  stroke-width:5;
-  stroke-linecap:round;
-  fill:none
-}
-.st8,.st9{
-  fill:#fff
-}
-.st9{
-  fill:none
-}
-.st10{
-  
+#notfound {
+  position: relative;https://app.cloudcannon.com/personal/editor#
+  height: 100vh;
 }
 
-#cloud1{
-  animation: cloud003 15s linear infinite;
+#notfound .notfound {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
 }
 
-#cloud2{
-  animation: cloud002 25s linear infinite;
+.notfound {
+  max-width: 767px;
+  width: 100%;
+  line-height: 1.4;
+  padding: 0px 15px;
 }
 
-#cloud3{
-  animation: cloud003 20s linear infinite;
+.notfound .notfound-404 {
+  position: relative;
+  height: 150px;
+  line-height: 150px;
+  margin-bottom: 25px;
 }
 
-#cloud4{
-  animation: float 4s linear infinite;
+.notfound .notfound-404 h1 {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 186px;
+  font-weight: 900;
+  margin: 0px;
+  text-transform: uppercase;
+  background: url('../img/text.png');
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: cover;
+  background-position: center;
 }
 
-#cloud5{
-  animation: float 8s linear infinite;
+.notfound h2 {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  margin: 0;
 }
 
-#cloud7{
-  animation: float 5s linear infinite;
+.notfound p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 0px;
+  text-transform: uppercase;
 }
 
-#tracks{
-  animation: slide 650ms linear infinite;
+.notfound a {
+  font-family: 'Titillium Web', sans-serif;
+  display: inline-block;
+  text-transform: uppercase;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  background: #5c91fe;
+  padding: 10px 40px;
+  font-size: 14px;
+  font-weight: 700;
+  border-radius: 1px;
+  margin-top: 15px;
+  -webkit-transition: 0.2s all;
+  transition: 0.2s all;
 }
 
-#bumps{
-  animation: land 10000ms linear infinite;
+.notfound a:hover {
+  opacity: 0.8;
 }
 
-@keyframes jig {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(1px); }
-    100% { transform: translateY(0px); }
-}
-
-#car-layers{
-  animation: jig 0.35s linear infinite;
-}
-
-@keyframes land {
-    from { transform: translateX(0); }
-    to { transform: translateX(1000px); }
-}
-
-
-@keyframes slide {
-    from { transform: translateX(0px); }
-    to { transform: translateX(100px); }
-}
-
-/* @keyframes cloudFloat {
-  0% { transform: translateX(0) translateY(3px); }
-  100% { transform: translateX(1000px) translateY(0); }
-} */
-
-@keyframes cloud001 {
-  0% { transform: translateX(-1000px) translateY(3px); }
-  100% { transform: translateX(1000px) translateY(0); }
-}
-
-@keyframes cloud002 {
-  0% { transform: translateX(-1000px) translateY(3px); }
-  100% { transform: translateX(1000px) translateY(0); }
-}
-
-@keyframes cloud003 {
-  0% { transform: translateX(-1000px) translateY(3px); }
-  100% { transform: translateX(1000px) translateY(0); }
-}
-
-@keyframes float {
-    0% { transform: translateY(0px) translateX(0); }
-    50% { transform: translateY(8px) translateX(5px); }
-    100% { transform: translateY(0px) translateX(0); }
-}
-
-#bracefront, #braceback{
-  animation: braces 1s linear infinite;
-}
-
-@keyframes braces {
-    0% { transform: translateX(-2px); }
-  25% { transform: translateX(3px); }
-    50% { transform: translateX(-2px); }
-    75% { transform: translateX(3px); }
-  100% { transform: translateX(-2px); }
+@media only screen and (max-width: 767px) {
+  .notfound .notfound-404 {
+    height: 110px;
+    line-height: 110px;
+  }
+  .notfound .notfound-404 h1 {
+    font-size: 120px;
+  }
 }
