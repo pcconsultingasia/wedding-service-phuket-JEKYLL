@@ -2,7 +2,7 @@
 name: Thai Cooking Phuket
 subtitle: "Thai cooking in the comfort of\_your own home"
 external_url: 'https://thaicookingphuket.com'
-image_path: /uploads/smalllogo-resized.jpg
+image_path: /uploads/SmallLogo.resized.jpg
 ---
 
 Want to learn Thai Cooking but too busy to go to School…I can help and teach you
