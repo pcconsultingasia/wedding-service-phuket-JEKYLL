@@ -2,7 +2,8 @@
 name: Wedding Videos
 subtitle: Inspirations & Ideas by Video
 external_url: 'https://uniquephuket.com/wedding-ceremony-videos/'
-image_path: /uploads/pccapic3.jpg
+image_path: >-
+  /uploads/samantha-and-saharat-villa-tievoli-wedding---18th-january-2019-42-unique-phuket.jpg
 ---
 
 # Wedding videos in Phuket
@@ -15,11 +16,11 @@ image_path: /uploads/pccapic3.jpg
 
 &nbsp;
 
-{% include youtubePlayer.html id=s2n3c6g6RHA.UCv0Q4oKmrOyuwT3jpaKkWOw %}
+{% include youtubePlayer.html id=s2n3c6g6RHA %}
 
 &nbsp;
 
-{% include youtubePlayer.html id=Pq_NWc_Qeww.UCv0Q4oKmrOyuwT3jpaKkWOw %}
+{% include youtubePlayer.html id=LjG1E9T-87M&amp;t %}
 
 &nbsp;
 
