@@ -46,8 +46,6 @@ plugins:
   - "jekyll-seo-tag"
   - "jekyll-paginate"
   - "jekyll-archives"
-  - "jekyll-image-size"
-  - "jekyll-responsive-image"
 
 
 exclude:
