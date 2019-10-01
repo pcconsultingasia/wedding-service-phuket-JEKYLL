@@ -17,7 +17,6 @@ date: 2019-10-01 00:00:00
   </p>
   
 
-..
 <ul class="partners-photo-gallery">
   {% for image in page.images %}
     <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
