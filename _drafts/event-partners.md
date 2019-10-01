@@ -9,7 +9,7 @@ date: 2019-10-01 00:00:00
 
 <div class="partner_images">
   <h2>
-    <img src= /wedding-services-phuket (1).png alt="Wedding Partners">
+    <img src= "/images/wedding-services-phuket (1).png" alt="Wedding Partners">
     Wedding Service Phuket - Event Partners
   </h2>
   <p>
