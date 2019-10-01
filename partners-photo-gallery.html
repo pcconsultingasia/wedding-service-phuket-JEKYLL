@@ -8,3 +8,13 @@ images:
     title: Neil Donkin Phuket Wedding Makeup Artist
     link: https://neildonkinmakeupartistphuket.com/
 ---
+...
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li>
+      <a href="{{ image.link }}">
+        <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
