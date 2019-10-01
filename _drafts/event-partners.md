@@ -17,17 +17,12 @@ date: 2019-10-01 00:00:00
   </p>
   
 
+..
 <ul class="partners-photo-gallery">
   {% for image in page.images %}
-    <li>
-      <a href="{{ image.link }}">
-        <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
-      </a>
-    </li>
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   {% endfor %}
 </ul>
-  <p>Source <a href="https://weddingservicephuket.com">Retun Main Website</a></p>
-  
   </div>
 
 ...
