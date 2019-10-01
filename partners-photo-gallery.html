@@ -1,20 +1,12 @@
 ---
 layout: default
-images:
-  - image_path: /images/partners/ER-logo.png
-    title: Easy Registry
-    link: https://www.easyregistry.com.au/
-  - image_path: /images/partners/FBshare_HairStylist_MakeupArtist_Phuket.jpg
-    title: Neil Donkin Phuket Wedding Makeup Artist
-    link: https://neildonkinmakeupartistphuket.com/
 ---
-...
-<ul class="partners-logo-gallery">
-  {% for image in page.images %}
-    <li>
-      <a href="{{ image.link }}">
-        <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+
+<style>
+    .partners-logo-gallery {overflow: auto; margin-left: -1%!important;}
+    .partners-logo-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+    .partners-logo-gallery a  span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .partners-logo-gallery a img {width: 100%; display: block;}
+</style>
+
+<p class="partners-logo-galleryy">{% for file in site.static_files %}{% if file.path contains include.folder %}{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}{% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}<a href="{{ file.path }}" title="{{ filename }}"><img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" /><span>{{ filename }}</span></a>{% endif %}{% endif %}{% endfor %}</p>
