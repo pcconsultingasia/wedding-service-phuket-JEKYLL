@@ -1,32 +1,57 @@
 ---
-layout: page
-title: Blog
-heading: Blog
-subtitle: Keep up with the latest news.
+title: Wedding Services Phuket
 ---
 
-<section class="diagonal">
-	<div class="text-container">
-	    <p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p>
-		<ul class="blog-posts">
-			{% include list-posts.html posts=paginator.posts %}
-		</ul>
+<section class="hero diagonal">
+	<div class="container">
+		<h1 class="editable">
+			Wedding Service Phuket
+		</h1>
+		<p class="subtext editable">
+			<em>We will translate your vision of the perfect wedding into a spectacular event.</em><br /><br />A Professional Wedding Service in Phuket.
+		</p>
+		<p><a class="button alt" href="{{ site.baseurl }}/contact/">Contact Us</a></p>
 	</div>
 </section>
 
-{% if paginator.total_pages > 1 %}
-	<section class="diagonal alternate">
-		<!-- Pagination links -->
-		<div class="pagination">
-			{% if paginator.previous_page %}
-				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
-			{% endif %}
-
-			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-
-			{% if paginator.next_page %}
-				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Older posts &rarr;</a>
-			{% endif %}
+<section class="diagonal patterned">
+	<div class="container halves">
+		<div>
+			<h2 class="editable">
+				Wedding Service Partners
+			</h2>
+			<p class="editable">
+				<strong>We are a western &amp; Thai owned, full service wedding and event planning company based in Phuket. We are affordable without compromising on elegance &amp; quality as we provide all your Wedding &amp; Event Services in-house.</strong>
+			</p>
+			<p class="editable">
+				<a href="/portfolio/">View Full Portfolio &rarr;</a>
+			</p>
 		</div>
-	</section>
-{% endif %}
+		<div>
+			<ul class="image-grid">
+				{% for client in site.clients limit: 4 %}
+					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}" /></a></li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</section>
+
+<section class="diagonal alternate">
+	<div class="container halves">
+		<div>
+			<ul class="image-list">
+				<li><img src="{{ site.baseurl }}/images/wedding-services-phuket (3).png" width="450" style="margin-bottom: 40px;" /></li>
+				<li><img src="{{ site.baseurl }}/images/wedding-services-phuket (1).png" width="300" /></li>
+			</ul>
+		</div>
+		<div>
+			<h2 class="editable">
+				Your Complete Wedding Service in Phuket
+			</h2>
+			<p class="editable">
+				We are .....<a target="_blank" href="https://uniquephuket.com">Wedding Planners</a>,<br />We provide.....<a target="_blank" href="https://weddingflowersphuket.com">Wedding Flowers</a>,<br />We provide.....<a href="https://weddingcelebrantasia.com">Wedding Celebrant Services</a>,<br />We only use......<br />Established independent florist contractors<br />....led by Supparin,<br />We have......<br />Negotiated single item local vendor prices,<br />So we have .........<br />Simplified costing and quotations.
+			</p>
+		</div>
+	</div>
+</section>
