@@ -18,8 +18,5 @@ date: 2019-10-01 00:00:00
   
 </div>
 
-<div
 
 {% include image-gallery.html folder="/images/partners-logo-gallery" %}
-
-</div>
