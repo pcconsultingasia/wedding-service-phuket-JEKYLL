@@ -1,2 +1,3 @@
 User-agent: *
 Allow:
+sitemap: http://a191743.sitemaphosting2.com/4134091/sitemap.xml
