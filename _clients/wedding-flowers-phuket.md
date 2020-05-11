@@ -16,3 +16,5 @@ My name is Supparin and I am an experienced Florist based in Phuket, Thailand. I
 Telephone me and in most cases, I will make you Flowers to order, hand made and delivered to you or your special person, the SAME DAY .Lets us be your preferred Phuket Florist.
 
 We delivery anywhere on the exotic island of Phuket just contact me here.
+
+Regards Toom
