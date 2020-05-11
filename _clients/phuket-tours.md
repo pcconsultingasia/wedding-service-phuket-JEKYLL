@@ -15,7 +15,7 @@ Phuket Tours & Conceige Service…I can help you make the most of your valuable 
 
 &nbsp;
 
-I am Supparin but my nickname is Toom – it is traditional to use nicknames in Thailand. My Family is from the local area and I have lived here most of my life and I also spent some time in Bangkok where I was a registered Tour Guide which is still current.
+I am Supparin but my nickname is " Toom " – it is traditional to use nicknames in Thailand. My Family is from the local area and I have lived here most of my life and I also spent some time in Bangkok where I was a registered Tour Guide which is still current.
 
 I speak excellent English and I have my own car.
 
