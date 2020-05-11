@@ -10,7 +10,7 @@ image_path: >-
 
 **Using the best Videographers in Phuket & Asia to create the perfect Memory in a&nbsp;[Wedding Ceremony or Event Video](https://uniquephuket.com/wedding-ceremony-videos/). The wedding video compliments the Photography in preserving the wedding day memory for many years to come.**
 
-&nbsp;
+WEDDING PLANNERS IN PHUKET💕 "Simple, Beautiful & Elegant Weddings is What We Do Best" "Email us admin@uniquephuket.com. \#Uniquephuket
 
 **We hope that the wedding videos from Unique Phuket Wedding Planners inspire you with ideas for your Wedding day in Phuket or other overseas Wedding venues.**
 
