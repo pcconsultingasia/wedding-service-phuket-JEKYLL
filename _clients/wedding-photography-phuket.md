@@ -14,3 +14,5 @@ I started my own professional wedding photography career in 2009 as Jaran Photo 
 **My photo shooting style is soft and romantic. I love capturing candid moments, small details and couples portraits.**
 
 My passion is to create stunning, natural imagery using an artistic approach. I aim to create wedding day events that will remain captured in time. My hope is that my photography evokes the emotions from each couple’s special day.
+
+Please get in touch today.
