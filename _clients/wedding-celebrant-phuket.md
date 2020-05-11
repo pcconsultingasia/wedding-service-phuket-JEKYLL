@@ -16,3 +16,5 @@ As your Wedding Celebrant, I will guide you through the whole process of creatin
 I will always meet you before your Wedding Day so we get to know each other and as a final check to ensure the Ceremony is exactly as planned.
 
 A natural speaker in front of any audience, I can ensure that your have a day full of wonderful memories.
+
+Regards Paul
