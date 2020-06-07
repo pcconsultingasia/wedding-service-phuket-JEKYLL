@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-87739794-16"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-87739794-16');
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '239892683755942');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=239892683755942&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5d8511e89f6b7a4457e2c84b/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5d85133ffb6feadc"></script>
+
+<script type='application/ld+json'>
+{
+	"@context": "http://schema.org/",
+	"@type": "WebPage",
+	"primaryImageOfPage": {
+		"@type": "ImageObject",
+		"contentUrl": "https://wedding-service-phuket.cdn.prismic.io/wedding-service-phuket/debbe2b36d7882633b1d39f7663111a987583fc7_paul--supparin-2017.jpg"
+	},
+	"description": "Wedding Service Phuket is Unique as we provide all the Wedding Services you will ever need for your Wedding or event in Phuket. Paul & Supparin own and run Wedding Service Phuket with many years of experience and a thorough knowledge of Phuket Events, Phuket event management and all the best wedding venues and vendors available today. From your initial brief we can quickly translate this into a comprehensive and all encompassing Event Plan with event venue suggestions, vendor suggestions and all costing clearly indicated. We have established and built relationships with only the best wedding and event professionals in Thailand after over 7 successful years running luxury event and weddings in Phuket & the surrounding region.",
+	"disambiguatingDescription": "We are a western & Thai owned, full service wedding and event planning company based in Phuket. We are affordable without compromising on elegance & quality as we provide all your Wedding & Event Services in-house",
+	"image": {
+		"@type": "ImageObject",
+		"contentUrl": "https://wedding-service-phuket.cdn.prismic.io/wedding-service-phuket%2Fa8920bf6-1ab4-4968-a008-837c65e3ca5f_wsp.svg"
+	},
+	"mainEntityOfPage": "https://weddingservicephuket.com",
+	"name": "Wedding Service Phuket"
+}
+</script>
+
+
+</body>
+</html>
