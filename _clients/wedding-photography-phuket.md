@@ -2,7 +2,7 @@
 name: Jaran Images
 subtitle: Professional Wedding & Event Photography
 external_url: 'https://jaranimages.com'
-image_path: /uploads/jaran-imageslogo-resized.jpg
+image_path: /uploads/jaran-images-logo-small.jpg
 ---
 
 Jaran Photography @ Jaran Images
